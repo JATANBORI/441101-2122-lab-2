@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace L2._7_BodyMassIndex
+namespace L2._7_MangoWoodIndex
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Body Mass Index Calculator.");
+            Console.WriteLine("Mango Wood Index Calculator.");
             // All your code here
 
             
